@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25-Apr-2021, 11:59:00 PM
+    Author     : rohit
+*/
+body{
+    background-size:cover;
+}
+.aa input[type="submit"]
+{
+    width:250px;
+    height:35px;
+    border:3;
+    border-radius:8px;
+    -webkit-border-radius:8px;
+    -o-moz-radius:8px;
+    background-color:green;
+    font-weight:bolder;
+    font-size: 25px;
+}
+
+h1{color: blueviolet;}
+
+h1{font-style: italic;}
+
+h1{font-size: 55px;}
